@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sarthakgadekar03@gmail.com**
 
-- 📄 Know about my experiences - [Resume Link]()
+- 📄 Know about my experiences - [Resume Link](https://drive.google.com/file/d/1PjclSqd14bACwOEDAgkk6uuciPj4PX4a/view?usp=sharing)
 
 <br>
 
