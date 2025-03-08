@@ -1,4 +1,4 @@
-![logo](https://github.com/siddhesh-desai/siddhesh-desai/blob/main/banner-img.jpeg)
+[![logo]
 <h1></h1>
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Sarthak Gadekar</h1>
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence** and **Machine Learning**
 
-- 📫 How to reach me **siddheshdesai777@gmail.com**
+- 📫 How to reach me **sarthakgadekar03@gmail.com**
 
 - 📄 Know about my experiences - [Resume Link]()
 
