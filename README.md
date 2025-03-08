@@ -8,7 +8,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b align="left">About Me:</b>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh-desai&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh-desai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IMTHEREALSG&label=Profile%20views&color=yellow&style=flat" alt="siddhesh-desai" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence** and **Machine Learning**
 
